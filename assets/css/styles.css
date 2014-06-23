@@ -1,0 +1,55 @@
+/*	Resets
+	------	*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figure, figcaption, hgroup, menu, footer, header, nav, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0; }
+
+article, aside, canvas, figure, figure img, figcaption, hgroup, footer, header, nav, section, audio, video {
+  display: block; }
+
+a {
+  text-decoration: none; }
+
+a img {
+  border: 0; }
+
+/* Default layout */
+body {
+  padding: 100px;
+  font-family: "Headland One", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  -webkit-text-size-adjust: 100%;
+  /* Stops Mobile Safari from auto-adjusting font-sizes */
+  background-color: #222;
+  color: #999; }
+
+h1 {
+  margin-bottom: 30px;
+  font-size: 36px;
+  color: #FFF; }
+
+p {
+  margin-bottom: 30px; }
+
+ol {
+  list-style: inside; }
+
+em {
+  color: #FFF; }
+
+a {
+  border-bottom: 3px solid #3E3E3E;
+  color: #999;
+  font-weight: 400;
+  text-decoration: none;
+  -webkit-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  transition: all 0.5s ease 0s; }
+
+a:hover {
+  color: #FFF; }
+
+footer {
+  margin-top: 60px; }
