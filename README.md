@@ -23,6 +23,14 @@ If you don't wanna run bot commands every times you change something, use `gulp 
 
 n.b: To use a custom domain name or subdomain, add a CNAME file into `dist` subdirectory like every github pages project.
 
+## Websites built with Bladerunner
+
+To add your site in this list, [create an issue](https://github.com/Wibeset/bladerunner/issues/new) or a pull request.
+
+* http://dominicmartineau.com
+* http://sergemartineau.com
+* http://wibeset.com
+
 ## Credits
 
 * [PhiloNL/Laravel-Blade](https://github.com/PhiloNL/Laravel-Blade)
